@@ -25,10 +25,10 @@ IOT and BLynk App Setup Referance Links:
 2. https://youtu.be/a12etFe8x_k?si=VsfrFR5z0PBaCmG2
 
 Other Referred Videos:
-https://youtu.be/qs1a9op8-IE?si=1v1in5FpfBRIPCET
-https://youtu.be/n9aPoGkoLYc?si=nktndJaYQg4oBHB_
-https://youtu.be/F1dKY-rtYv8?si=gA3icoI2LaqC3G3U
-https://youtu.be/WLCR0r7rYi8?si=Fc7al-qgTdYmStvT
+1. https://youtu.be/qs1a9op8-IE?si=1v1in5FpfBRIPCET 
+2. https://youtu.be/n9aPoGkoLYc?si=nktndJaYQg4oBHB_ 
+3. https://youtu.be/F1dKY-rtYv8?si=gA3icoI2LaqC3G3U 
+4. https://youtu.be/WLCR0r7rYi8?si=Fc7al-qgTdYmStvT 
 
 Note:
 If you are a beginner taking up an IOT project, Kindly ensure that you are buying the exact version of the component from your Referance Videos.
