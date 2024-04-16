@@ -1,4 +1,5 @@
-The project proposes an innovative solution to empower farmers with real-time data on crucial environmental parameters such as Temperature, Humidity and Soil Moisture.
+This project proposes an innovative solution to empower farmers with real-time data on crucial environmental parameters such as Temperature, Humidity and Soil Moisture. The readings can be entered into the Tkinter web Application that recommends suitable crops to grow for that particular environmental conditions.
+
 Working of the Project is as shown in the Demo Video.
 
 Software Requirements:
